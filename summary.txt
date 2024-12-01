@@ -17,5 +17,6 @@ My favorite project was building a Transformer from Scratch using TransformerLen
 The goal was to implement a GPT-2-style language model from the ground up, focusing on understanding how transformers work at a granular level. 
 The most challenging part was implementing the attention mechanism and ensuring it functioned correctly across multiple layers. 
 Debugging and verifying outputs against expected behavior required a deep understanding of linear algebra and tensor operations. 
-Additionally, working through Neel Nanda’s exercises with TransformerLens helped me understand transformer internals like attention heads and residual streams, 
-as well as how these components contribute to model interpretability. This project greatly improved my understanding of advanced deep learning architectures and their real-world applications.
+Additionally, working through Neel Nanda’s exercises with TransformerLens helped me understand transformer internals like attention heads
+and residual streams, as well as how these components contribute to model interpretability. This project greatly improved my understanding
+of advanced deep learning architectures and their real-world applications.
