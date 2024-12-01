@@ -91,12 +91,3 @@ curl -X POST http://localhost:8000/spend -H “Content-Type: application/json”
 3. **Get Balances**:
 curl -X GET http://localhost:8000/balance
 ---
-
-## Project Structure
-project/
-├── app/
-│   ├── init.py            # Initializes Flask app
-│   ├── routes.py          # API route definitions
-│   ├── services.py        # Core logic for transactions
-├── run.py                 # Entry point for the application
-├── summary.txt            # Assignment questions
