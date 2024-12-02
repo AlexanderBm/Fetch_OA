@@ -1,8 +1,9 @@
-	1.	Why did you choose the tools, libraries, and language you used for the coding exercise?
+1.	Why did you choose the tools, libraries, and language you used for the coding exercise?
 I chose Python because it is a versatile, widely used, and allows for rapid development. 
 I used Flask because it is lightweight, easy to set up, well-suited for REST API development, and because I have used it in the past. 
 Flask’s simplicity allowed me to focus on implementing the functionality without unnecessary overhead, making it an ideal choice for this project.
-	2.	What are the advantages and disadvantages of your solution?
+
+2.	What are the advantages and disadvantages of your solution?
 Advantages:
 	•	Simplicity: The solution uses Flask, which is lightweight and easy to configure. 
 		Also it's written in Python which makes it very readable.
@@ -12,7 +13,8 @@ Disadvantages:
 	•	Memory Usage: The solution stores all transactions in memory. For large-scale use cases, this could lead to high memory consumption.
 	•	Lack of Persistence: Data is not persisted; all information is lost when the server restarts. Adding a database would resolve this.
     •	It's written in Python, which is slow in comparison to other languages.
-	3.	What has been a favorite school/personal project thus far? What about it challenged you?
+
+3.	What has been a favorite school/personal project thus far? What about it challenged you?
 My favorite project was building a Transformer from Scratch using TransformerLens for mechanistic interpretability research. 
 The goal was to implement a GPT-2-style language model from the ground up, focusing on understanding how transformers work at a granular level. 
 The most challenging part was implementing the attention mechanism and ensuring it functioned correctly across multiple layers. 
